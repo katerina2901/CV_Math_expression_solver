@@ -27,17 +27,17 @@ Testing dataset (20% of CompleteDataSet.npy)
 
 ## Project Organization
 ------------
-  ├── project-cv.ipynb        <- Jupyter notebooks. (Train models & EasyOCR & PyTesseract)
-  ├── README.md               <- The top-level README
-  ├── resnet.ipynb            <- upyter notebooks. (Train model ResNet & CV2 find conturs)
-  ├── lenet.pth               <- weights for LeNet18
-  │
-  ├── mobilenet.pth           <- weights for MobileNet
-  │
-  ├── resnet.pth              <- weights for ResNet (for resnet.ipynb, for [project-cv.ipynb](https://drive.google.com/file/d/19KQOwUfYnX3LJafsa-oT_E3hqA9s0HHP/view?usp=sharing))
-  │
-  ├── test.zip                <- Jupyter notebooks. (Visualization & metrics)
-  |
-  └──  CV_project.pdf          <- Jupyter notebooks. (Visualization & metrics)
+    ├── project-cv.ipynb        <- Jupyter notebooks. (Train models & EasyOCR & PyTesseract)
+    ├── README.md               <- The top-level README
+    ├── resnet.ipynb            <- upyter notebooks. (Train model ResNet & CV2 find conturs)
+    ├── lenet.pth               <- weights for LeNet18
+    │
+    ├── mobilenet.pth           <- weights for MobileNet
+    │
+    ├── resnet.pth              <- weights for ResNet (for resnet.ipynb, for [project-cv.ipynb](https://drive.google.com/file/d/19KQOwUfYnX3LJafsa-oT_E3hqA9s0HHP/view?usp=sharing))
+    │
+    ├── test.zip                <- Jupyter notebooks. (Visualization & metrics)
+    |
+    └──  CV_project.pdf          <- Jupyter notebooks. (Visualization & metrics)
 
 
