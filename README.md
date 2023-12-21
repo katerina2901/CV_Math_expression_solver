@@ -43,6 +43,7 @@ Testing dataset (20% of CompleteDataSet.npy)
     │
     ├── test.zip                <- Jupyter notebooks. (Visualization & metrics)
     |
-    └──  CV_project.pdf          <- Jupyter notebooks. (Visualization & metrics)
-
-
+    ├── example.jpg             <- Example of ResNet18 classification
+    └──  CV_project.pdf         <- Jupyter notebooks. (Visualization & metrics)
+## Example of detection and classification
+![https://github.com/katerina2901/CV_Math_expression_solver/blob/main/example.jpg](https://github.com/katerina2901/CV_Math_expression_solver/blob/main/example.jpg)
