@@ -21,9 +21,13 @@ Testing dataset (20% of CompleteDataSet.npy)
 ## Pipline
 
   1. Data analysis and preprocessing
+   
   2. CNN model selection and training for multiclass classification
+
   3. OCR models selection
+
   4. Crop and classification
+
   5. Solver and analysis of the result [Current solution also for comparing]
 (https://webdemo.myscript.com/views/math/index.html)
 
