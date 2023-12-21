@@ -47,3 +47,4 @@ Testing dataset (20% of CompleteDataSet.npy)
     └──  CV_project.pdf         <- Jupyter notebooks. (Visualization & metrics)
 ## Example of detection and classification
 ![https://github.com/katerina2901/CV_Math_expression_solver/blob/main/example.jpg](https://github.com/katerina2901/CV_Math_expression_solver/blob/main/example.jpg)
+Answer of python = 12
