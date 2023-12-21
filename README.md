@@ -28,8 +28,7 @@ Testing dataset (20% of CompleteDataSet.npy)
 
   4. Crop and classification
 
-  5. Solver and analysis of the result [Current solution also for comparing]
-(https://webdemo.myscript.com/views/math/index.html)
+  5. Solver and analysis of the result [Current solution also for comparing](https://webdemo.myscript.com/views/math/index.html)
 
 ## Project Organization
 ------------
